@@ -1,3 +1,4 @@
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/Z8Z734F5Y)
 # Moon Lamp Frontend and Firmware
 
 [![Video](https://img.youtube.com/vi/3wEAKVvzJyA/0.jpg)](https://www.youtube.com/watch?v=3wEAKVvzJyA)
